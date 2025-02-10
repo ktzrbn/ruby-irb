@@ -16,8 +16,8 @@
   "explorer.openEditors.visible": 0,
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
-  "terminal.integrated.fontSize": 22,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "terminal.integrated.fontSize": 14,
+  "workbench.colorTheme": "Ayu Dark Bordered",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "workbench.editor.empty.hint": "hidden",
@@ -82,4 +82,5 @@
   "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
   "emmet.showAbbreviationSuggestions": false,
   "emmet.showExpandedAbbreviation": "never",
+  "terminal.integrated.allowChords": false,
 }

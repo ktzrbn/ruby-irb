@@ -1,4 +1,4 @@
-count = 1
+count = 4
 
 case
 when count == 0
